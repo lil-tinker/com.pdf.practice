@@ -20,4 +20,3 @@ spring:
 server:
   tomcat:
     max-swallow-size: -1
-  port: 80
